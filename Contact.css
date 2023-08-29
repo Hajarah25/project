@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin-top: 20px;
+    height: 250px;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(./images/img15.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: oldlace;
+}
+
+a{
+    color:orange;
+}
+.cont{
+   height: 400px;
+   background-color: orange;
+}
+h1{
+    padding: 14px;
+    /* color: olivedrab; */
+}
+.Contact p{
+    padding: 10px;
+}
+.Contact{
+    height: 250px;
+    background-color:olivedrab;
+    border: 1px solid;
+    color: white;
+}
+
+.copyright{
+    padding: 14px 30px;
+ }
+ .copyright p{
+     margin-top: 70px;
+     text-align: center;
+ }
+ .copyright a{
+     text-decoration: none;
+     color: orange;
+ }

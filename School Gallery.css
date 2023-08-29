@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.partition1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.partition2{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.partition1 :hover{
+     scale: 0.9;
+}
+.partition2 :hover{
+    scale: 0.9;
+}
+.first{
+    height: 300px;
+    width: 50%;
+    margin-bottom: 25px;
+    background: url(./images/img19.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.second{
+    height: 300px;
+    width: 50%;
+    margin-bottom: 25px;
+    background: url(./images/img16.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.third{
+    height: 300px;
+    width: 50%;
+    margin-bottom: 25px;
+    background: url(./images/img15.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.fourth{
+    height: 300px;
+    width: 50%;
+    margin-bottom: 25px;
+    background: url(./images/img3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sixth{
+    height: 300px;
+    width: 50%;
+    margin-bottom: 25px;
+    background: url(./images/img10.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.seventh{
+    height: 300px;
+    width: 50%;
+    margin-bottom: 25px;
+    background: url(./images/img13.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.eighth{
+    height: 300px;
+    width: 50%;
+    margin-bottom: 25px;
+    background: url(./images/img17.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.ninth{
+    height: 300px;
+    width: 50%;
+    margin-bottom: 25px;
+    background: url(./images/img18.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.copyright{
+    padding: 14px 30px;
+ }
+ .copyright p{
+     margin-top: 70px;
+     text-align: center;
+ }
+ .copyright a{
+     text-decoration: none;
+     color: orange;
+ }
